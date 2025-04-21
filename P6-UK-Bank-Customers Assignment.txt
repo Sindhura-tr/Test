@@ -1,0 +1,25 @@
+P6-UK-Bank-Customers Assignment
+
+Create Power BI report for below business scenarios and share the file on skype group by Monday,3rd Feb 25
+
+In 1st Page,
+
+1. Create title of the page as "UK Bank Customers Dashboard"
+2. Create cards displaying 'Total Balance', 'Total Customers', 'Region with highest balance', Date with highest balance'.
+3. Create a Line chart with Quarter and Month, enable 'Date Hierarchy'.
+4. Create a Pie chart -> Total Balance vs Region
+5. Create a Column chart -> Average of Age vs Job Classification
+
+In 2nd Page,
+
+1. Create a Bar chart -> Total Balance vs Job Classification
+2. Create a Donut chart -> Gender vs Job Classification
+Drag and Drop 'Job Classification' in Drill through section : Add Drill through fields here
+Go to Page 1, select Column chart, got to Data/Drill Pane ,enable Drill through
+
+In 3rd page,
+
+Create a table showcasing Region ,Job Classification, Total count(show count of job classification), Total Balance
+Drag and Drop 'Region' in Drill through section : Add Drill through fields here
+Go to Page 1, select Pie chart, got to Data/Drill Pane ,enable Drill through
+
